@@ -1,0 +1,26 @@
+C:\Users\arkad\source\repos\TasksFromClasses\ConditionsExercise\bin\Debug\netcoreapp3.1\ConditionsExercise.exe
+C:\Users\arkad\source\repos\TasksFromClasses\ConditionsExercise\bin\Debug\netcoreapp3.1\ConditionsExercise.deps.json
+C:\Users\arkad\source\repos\TasksFromClasses\ConditionsExercise\bin\Debug\netcoreapp3.1\ConditionsExercise.runtimeconfig.json
+C:\Users\arkad\source\repos\TasksFromClasses\ConditionsExercise\bin\Debug\netcoreapp3.1\ConditionsExercise.runtimeconfig.dev.json
+C:\Users\arkad\source\repos\TasksFromClasses\ConditionsExercise\bin\Debug\netcoreapp3.1\ConditionsExercise.dll
+C:\Users\arkad\source\repos\TasksFromClasses\ConditionsExercise\bin\Debug\netcoreapp3.1\ConditionsExercise.pdb
+C:\Users\arkad\source\repos\TasksFromClasses\ConditionsExercise\obj\Debug\netcoreapp3.1\ConditionsExercise.csprojAssemblyReference.cache
+C:\Users\arkad\source\repos\TasksFromClasses\ConditionsExercise\obj\Debug\netcoreapp3.1\ConditionsExercise.AssemblyInfoInputs.cache
+C:\Users\arkad\source\repos\TasksFromClasses\ConditionsExercise\obj\Debug\netcoreapp3.1\ConditionsExercise.AssemblyInfo.cs
+C:\Users\arkad\source\repos\TasksFromClasses\ConditionsExercise\obj\Debug\netcoreapp3.1\ConditionsExercise.csproj.CoreCompileInputs.cache
+C:\Users\arkad\source\repos\TasksFromClasses\ConditionsExercise\obj\Debug\netcoreapp3.1\ConditionsExercise.dll
+C:\Users\arkad\source\repos\TasksFromClasses\ConditionsExercise\obj\Debug\netcoreapp3.1\ConditionsExercise.pdb
+C:\Users\arkad\source\repos\TasksFromClasses\ConditionsExercise\obj\Debug\netcoreapp3.1\ConditionsExercise.genruntimeconfig.cache
+C:\Users\arkad\OneDrive\Pulpit\iSA Projekty\Zadania z prezentacji\TasksFromClasses\ConditionsExercise\bin\Debug\netcoreapp3.1\ConditionsExercise.exe
+C:\Users\arkad\OneDrive\Pulpit\iSA Projekty\Zadania z prezentacji\TasksFromClasses\ConditionsExercise\bin\Debug\netcoreapp3.1\ConditionsExercise.deps.json
+C:\Users\arkad\OneDrive\Pulpit\iSA Projekty\Zadania z prezentacji\TasksFromClasses\ConditionsExercise\bin\Debug\netcoreapp3.1\ConditionsExercise.runtimeconfig.json
+C:\Users\arkad\OneDrive\Pulpit\iSA Projekty\Zadania z prezentacji\TasksFromClasses\ConditionsExercise\bin\Debug\netcoreapp3.1\ConditionsExercise.runtimeconfig.dev.json
+C:\Users\arkad\OneDrive\Pulpit\iSA Projekty\Zadania z prezentacji\TasksFromClasses\ConditionsExercise\bin\Debug\netcoreapp3.1\ConditionsExercise.dll
+C:\Users\arkad\OneDrive\Pulpit\iSA Projekty\Zadania z prezentacji\TasksFromClasses\ConditionsExercise\bin\Debug\netcoreapp3.1\ConditionsExercise.pdb
+C:\Users\arkad\OneDrive\Pulpit\iSA Projekty\Zadania z prezentacji\TasksFromClasses\ConditionsExercise\obj\Debug\netcoreapp3.1\ConditionsExercise.csprojAssemblyReference.cache
+C:\Users\arkad\OneDrive\Pulpit\iSA Projekty\Zadania z prezentacji\TasksFromClasses\ConditionsExercise\obj\Debug\netcoreapp3.1\ConditionsExercise.AssemblyInfoInputs.cache
+C:\Users\arkad\OneDrive\Pulpit\iSA Projekty\Zadania z prezentacji\TasksFromClasses\ConditionsExercise\obj\Debug\netcoreapp3.1\ConditionsExercise.AssemblyInfo.cs
+C:\Users\arkad\OneDrive\Pulpit\iSA Projekty\Zadania z prezentacji\TasksFromClasses\ConditionsExercise\obj\Debug\netcoreapp3.1\ConditionsExercise.csproj.CoreCompileInputs.cache
+C:\Users\arkad\OneDrive\Pulpit\iSA Projekty\Zadania z prezentacji\TasksFromClasses\ConditionsExercise\obj\Debug\netcoreapp3.1\ConditionsExercise.dll
+C:\Users\arkad\OneDrive\Pulpit\iSA Projekty\Zadania z prezentacji\TasksFromClasses\ConditionsExercise\obj\Debug\netcoreapp3.1\ConditionsExercise.pdb
+C:\Users\arkad\OneDrive\Pulpit\iSA Projekty\Zadania z prezentacji\TasksFromClasses\ConditionsExercise\obj\Debug\netcoreapp3.1\ConditionsExercise.genruntimeconfig.cache
